@@ -2,6 +2,8 @@
 /bin
 /site
 /terraform-provider-confluence
+.DS_Store
+.idea
 
 # ignore confluence secrets
 terraform.tfvars
